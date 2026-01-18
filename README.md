@@ -55,5 +55,6 @@ ERRO: Nota inválida! Foi atribuído nota 0.
 -> João Teste salvo com sucesso!
 
 ... Relatório Final gerado com sucesso ...
+```
 
 ![Print do console](img/teste-erro.png)
